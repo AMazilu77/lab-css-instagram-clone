@@ -34,9 +34,9 @@ body {
 
 }
 
-.homebtn {   /*margins doing absolutely nothing - great*/
+.homebtn {  
   float: left;
-  margin: 300px 170px 600px 0px;
+  margin: 150px 60px 00px 0px;
   background-color: #1c5380;
   color: white;
 }
